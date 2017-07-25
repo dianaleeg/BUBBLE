@@ -3,111 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/366be97d5a9b7a79653031cf1c938b9e30c12973/output/jars/classes.jar"
+        jar="/Users/Administrator/.android/build-cache/295c02f42d87f093747404e6189dc5fc5c0910de/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_2bf7c4a52dcf4906dfb019ecd34837f9423ce749.jar" />
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_6108cee2469b6fc5dc64f4374de1fdce2021f9de.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/028ab86e2f6b1231fe38da30375103ffdd95d1c1/output/jars/classes.jar"
+        jar="/Users/Administrator/.android/build-cache/6b50d36c36acc2a2e488a2d4f1e320b7e3779cb4/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_51c4d0cad1a15801e45ae3b57b5ae3d93e4485f7.jar" />
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_57b5fa1d25845e5023f526e39fa4d2a5ef258c8a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/8792c1d7b6db5e292e869a15b978435f73728509/output/jars/classes.jar"
+        jar="/Users/Administrator/.android/build-cache/0c1f3e74c6049fac44d26cb54c2d76760933b68b/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_1ea5a44dfa6405b1983f38bc7b8e999ec8558909.jar" />
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_ca5307b376f4203c0bc6d544f5067efb6d1a5eab.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/8286778601051fa58d43e316e10d6144110090d0/output/jars/classes.jar"
+        jar="/Users/Administrator/.android/build-cache/4fdec68e9504f24b9aa9bd38ce1afa6c3e77896d/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_bb20c7323ea2e5a116eca8da92ebc49cd6600fab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/a5c5b824bc8ebc7f4fbbb800ecc606d7ebbdc842/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_33ec94c1c062c33972329edfbde9f8d73a2a54ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_d86473f363d328340797b4a1cda16e2aa7294b21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/5b591e30d318d0c7d9c60e922e8986149880573c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_cacd08f1fbafe0e5bc3ec01cbed8d6fd9ae9f247.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/5d6785d93dde89d7eb52a7984165bb2fc4cc98ad/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_3fbd37b2e1604dcf64094ea47c3fd50a74a751a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_3dfd68920abddfbae5bcd3944f5ae0f18c3d8711.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/f6b2866d6054c72cb4bb8679f676623ff287d4b5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_6dae2f2f157738114d9b6f75db8a57b962994441.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/ce027736fc0b89274bdcb33947b9c175e58cf6dc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_f65d7cb4971a79ccd9bad9f6e6adc4d8c06220ba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/2e10f31ff6fe1ddeed2a1713aca812e831e2d4ce/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/Dyllen/Code/GitHub/bubbleProject/app/build/intermediates/pre-dexed/debug/classes_d0559b56ab701f46fd4c537f77df21e0a44c4a7a.jar" />
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_6b5772c63aa23e05e048ec7444426a4a07c9081d.jar" />
     </item>
 
 </items>
