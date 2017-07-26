@@ -11,23 +11,30 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/addTracker"
-        app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="16dp"
+        android:layout_width="59dp"
+        android:layout_height="46dp"
         android:layout_marginLeft="16dp"
-        app:layout_constraintLeft_toLeftOf="parent" />
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/addTracker"
+        android:textSize="24sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="+" />
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="93dp"
-        android:layout_height="53dp"
+        android:layout_width="216dp"
+        android:layout_height="215dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/circle_button"
+        android:onClick="showTracker1"
         android:text="@string/tracker_1"
-        android:onClick = "showTracker1"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Tracker 1" />
 
 </android.support.constraint.ConstraintLayout>
