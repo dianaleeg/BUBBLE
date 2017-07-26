@@ -2,40 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/295c02f42d87f093747404e6189dc5fc5c0910de/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
-        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_6108cee2469b6fc5dc64f4374de1fdce2021f9de.jar" />
+        sha1="402865280f95edb2ebe2cfa6888386066389a37a">
+        <dex dex="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cbe5f9c5aa1aa54beea0bc5561c81e77b3920611\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/6b50d36c36acc2a2e488a2d4f1e320b7e3779cb4/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
-        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_57b5fa1d25845e5023f526e39fa4d2a5ef258c8a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/0c1f3e74c6049fac44d26cb54c2d76760933b68b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
-        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_ca5307b376f4203c0bc6d544f5067efb6d1a5eab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Administrator/.android/build-cache/4fdec68e9504f24b9aa9bd38ce1afa6c3e77896d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
-        <dex dex="/Dyllen/Code/GitHub/BUBBLE/app/build/intermediates/pre-dexed/debug/classes_6b5772c63aa23e05e048ec7444426a4a07c9081d.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7dad23c41dc10c2de543d708f8d767c6ec0e4d56\classes.dex" />
     </item>
 
 </items>
