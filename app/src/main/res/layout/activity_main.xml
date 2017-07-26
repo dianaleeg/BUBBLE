@@ -6,7 +6,10 @@
     android:layout_height="match_parent"
     tools:context="com.example.administrator.bubbleproject.MainActivity"
     tools:layout_editor_absoluteY="81dp"
-    tools:layout_editor_absoluteX="0dp">
+    tools:layout_editor_absoluteX="0dp"
+    android:background="@drawable/background_image"
+    >
+
 
 
     <Button
@@ -16,6 +19,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
+        android:background="@drawable/orange_button"
         android:text="@string/addTracker"
         android:textSize="24sp"
         app:layout_constraintLeft_toLeftOf="parent"
