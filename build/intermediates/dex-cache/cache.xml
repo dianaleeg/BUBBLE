@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\joann\Documents\GitHub\BUBBLE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="402865280f95edb2ebe2cfa6888386066389a37a">
-        <dex dex="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cbe5f9c5aa1aa54beea0bc5561c81e77b3920611\classes.dex" />
+        sha1="b2dcf82ba5b13df45ce892ba5affbf0b56ac6825">
+        <dex dex="C:\Users\joann\Documents\GitHub\BUBBLE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6ece4998a615ed290d713c6b2f83978f6e67488e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\joann\Documents\GitHub\BUBBLE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\diana\OneDrive\Documents\GitHub\BUBBLE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7dad23c41dc10c2de543d708f8d767c6ec0e4d56\classes.dex" />
+        <dex dex="C:\Users\joann\Documents\GitHub\BUBBLE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1b77c35ff4dd11bffcd92dda3e04e1a5f09b1b9a\classes.dex" />
     </item>
 
 </items>

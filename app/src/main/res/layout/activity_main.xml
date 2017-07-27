@@ -19,7 +19,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:background="@drawable/orange_button"
+        android:background="@drawable/darkercolor_button"
         android:text="@string/addTracker"
         android:textSize="24sp"
         app:layout_constraintLeft_toLeftOf="parent"
