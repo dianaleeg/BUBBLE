@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.administrator.bubbleproject.tracker1PageActivity">
+    tools:context="com.example.administrator.bubbleproject.tracker1PageActivity"
+    android:background="@drawable/white_background"
+    >
 
     <EditText
         android:id="@+id/editText"
