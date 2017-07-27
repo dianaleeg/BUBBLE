@@ -31,6 +31,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:text="ToggleButton"
+        android:background="@drawable/darkercolor_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -46,6 +47,7 @@
         android:layout_marginTop="93dp"
         android:text="Location:"
         android:textSize="22sp"
+        android:textColor="#000000"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginStart="16dp" />
@@ -58,6 +60,7 @@
         android:layout_marginTop="268dp"
         android:text="Schedule:"
         android:textSize="22sp"
+        android:textColor="#000000"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginStart="16dp" />
