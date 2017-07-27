@@ -2,7 +2,7 @@
     android:shape="oval">
     <stroke android:color="#d6e8ff"
         android:width="15dp"></stroke>
-    <solid android:color="#84d6ff"></solid>
+    <solid android:color="#93daff"></solid>
     <size android:width="120dp"
         android:height="120dp"></size>
 </shape>
