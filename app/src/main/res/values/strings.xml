@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">bubbleProject</string>
-    <string name="tracker_1">tracker1</string>
-    <string name="editTracker">edit</string>
-    <string name="addTracker">add</string>
+    <string name="tracker_1">Tracker 1</string>
+    <!--<string name="editTracker">edit</string>-->
+    <string name="addTracker">+</string>
     <string name="title_activity_settings">Settings</string>
 
     <!-- Strings related to Settings -->
