@@ -28,6 +28,7 @@
         android:layout_marginTop="16dp"
         android:background="@drawable/darkercolor_button"
         android:fontFamily="monospace"
+        android:onClick="addTracker"
         android:text="@string/addTracker"
         android:textSize="32sp"
         app:layout_constraintLeft_toLeftOf="parent"

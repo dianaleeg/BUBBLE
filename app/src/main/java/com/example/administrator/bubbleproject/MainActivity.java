@@ -27,6 +27,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void addTracker (View view) {
+        Intent intent = new Intent (this, addActivity.class);
+        startActivity(intent);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main,menu);
