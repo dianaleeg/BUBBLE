@@ -2,6 +2,7 @@ package com.example.administrator.bubbleproject;
 
 import android.app.ActionBar;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -9,6 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -17,6 +19,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         getSupportActionBar().setDisplayHomeAsUpEnabled(false);
+
+        SharedPreferences prefs = getSharedPreferences("NAME_DATA", MODE_PRIVATE);
+
+        //getXXX(key, default value)
+        String name = prefs.getString("TRACKER_NAME", "no name");
+
+        //set values
+        ((TextView)findViewById(R.id.nameLabel)).setText(name);
 
     }
 

@@ -19,20 +19,22 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
 
-    <EditText
-        android:id="@+id/editText"
-        android:layout_width="328dp"
-        android:layout_height="53dp"
-        android:layout_marginTop="8dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/tracker_1"
+
+    <TextView
+        android:id="@+id/nameLabel"
+        android:layout_width="185dp"
+        android:layout_height="49dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="170dp"
+        android:layout_marginTop="16dp"
+        android:text="Tracker 1"
         android:textAlignment="center"
+        android:textColor="#000"
         android:textSize="28sp"
+        app:layout_constraintHorizontal_bias="0.365"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.527" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ToggleButton
         android:id="@+id/toggleButton"
@@ -89,4 +91,19 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="130dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="67dp"
+        android:layout_height="37dp"
+        android:layout_marginRight="67dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/darkercolor_button"
+        android:fontFamily="monospace"
+        android:onClick="showEdit"
+        android:text="Edit"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
 </android.support.constraint.ConstraintLayout>
