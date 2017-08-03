@@ -58,13 +58,13 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intentsetup);
             return true;
         }
-        if (id==R.id.id_settings) {
-            //Write own logic
-
-            Intent intentsettings=new Intent(MainActivity.this,settingsActivity.class);
-            startActivity(intentsettings);
-            return true;
-        }
+////        if (id==R.id.id_settings) {
+////            //Write own logic
+////
+////            Intent intentsettings=new Intent(MainActivity.this,settingsActivity.class);
+////            startActivity(intentsettings);
+////            return true;
+//        }
         return true;
     }
 

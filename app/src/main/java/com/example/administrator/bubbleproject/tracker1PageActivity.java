@@ -19,7 +19,7 @@ public class tracker1PageActivity extends AppCompatActivity {
         SharedPreferences prefs = getSharedPreferences("NAME_DATA", MODE_PRIVATE);
 
         //getXXX(key, default value)
-        String name = prefs.getString("TRACKER_NAME", "no name");
+        String name = prefs.getString("TRACKER_NAME", "Tracker 1");
 
         //set values
         ((TextView)findViewById(R.id.nameLabel)).setText(name);
@@ -34,4 +34,11 @@ public class tracker1PageActivity extends AppCompatActivity {
         startActivity(new Intent(getApplicationContext(),edit.class));
     }
 
+    public void streamLocation (View view) {
+        Intent intent = new Intent (this,StreamLocation.class);
+        startActivity(intent);
+    }
+
 }
+
+

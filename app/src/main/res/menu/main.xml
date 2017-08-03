@@ -7,12 +7,12 @@
         android:orderInCategory="100"
         android:showAsAction="never"
         />
-    <item
-        android:title="Settings"
-        android:id="@+id/id_settings"
-        android:showAsAction="never"
-        android:orderInCategory="101"
-        />
+    <!--<item-->
+        <!--android:title="Settings"-->
+        <!--android:id="@+id/id_settings"-->
+        <!--android:showAsAction="never"-->
+        <!--android:orderInCategory="101"-->
+        <!--/>-->
 
 
 </menu>
